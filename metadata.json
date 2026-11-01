@@ -1,0 +1,6 @@
+{
+  "name": "AZVerse — Curious Top 10s",
+  "description": "An editorial magazine and curious listicle platform featuring top 10 countdowns across bizarre history, science, cinema, gaming, and unexplained mysteries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
